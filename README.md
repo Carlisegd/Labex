@@ -5,7 +5,8 @@ O que funciona no projeto:
 - Fazer Login;
 - Criar Viagem;
 - Excluir viagem;
-- Ver viagens.
+- Ver viagens;
+- aprovar e reprovar cadidatos.
 
 Link Surge:
 https://agreeable-worm.surge.sh/
@@ -38,3 +39,5 @@ Pagina para criar viagens:
 
 Pagina de canditados:
 ![image](https://user-images.githubusercontent.com/92445126/160174459-5b1d0ca8-2f58-4001-86c6-939f3309b062.png)
+
+![image](https://user-images.githubusercontent.com/92445126/160213157-62d91868-772c-4ed5-855b-d8a9df56d423.png)
