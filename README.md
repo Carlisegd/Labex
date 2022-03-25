@@ -9,7 +9,7 @@ O que funciona no projeto:
 - aprovar e reprovar cadidatos.
 
 Link Surge:
-https://agreeable-worm.surge.sh/
+https://good-substance.surge.sh/
 
 Login de acesso:
 carlisegd@gmail.com
