@@ -6,7 +6,7 @@ O que funciona no projeto:
 - Criar Viagem;
 - Excluir viagem;
 - Ver viagens;
-- aprovar e reprovar cadidatos.
+- aprovar e reprovar candidatos.
 
 Link Surge:
 https://good-substance.surge.sh/
