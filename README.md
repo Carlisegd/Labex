@@ -17,6 +17,8 @@ senha: 123456
 
 Autor do projeto: Carlise Debona
 
+Utilizei no projeto CSS, React, JS, Surge e o Figma.
+
 Imagens do projeto:
 
 Pagina Home:
